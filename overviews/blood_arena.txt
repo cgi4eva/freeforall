@@ -1,0 +1,14 @@
+// overview description file for blood_arena.bsp
+
+global 
+{
+        ZOOM	2.49
+	ORIGIN	-1226.50     97	     -184
+	ROTATED	0
+}
+
+layer 
+{
+        IMAGE	"overviews/blood_arena.bmp"
+	HEIGHT	-641
+}

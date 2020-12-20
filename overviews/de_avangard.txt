@@ -1,0 +1,14 @@
+// overview description file for de_avangard.bsp
+
+global 
+{
+        ZOOM	1.31
+	ORIGIN	240	-256	-48
+	ROTATED	0
+}
+
+layer 
+{
+        IMAGE	"overviews/de_avangard.bmp"
+	HEIGHT	-353
+}

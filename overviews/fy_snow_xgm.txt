@@ -1,0 +1,14 @@
+// overview description file for fy_snow_xgm.bsp
+
+global 
+{
+        ZOOM	3.10
+	ORIGIN	576	192	-154
+	ROTATED	1
+}
+
+layer 
+{
+        IMAGE	"overviews/fy_snow_xgm.bmp"
+	HEIGHT	-441
+}
