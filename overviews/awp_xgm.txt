@@ -1,0 +1,14 @@
+// overview description file for awp_xgm.bsp
+
+global 
+{
+        ZOOM	1.47
+	ORIGIN	256	-1792	 -216
+	ROTATED	1
+}
+
+layer 
+{
+        IMAGE	"overviews/awp_xgm.bmp"
+	HEIGHT	-569
+}
