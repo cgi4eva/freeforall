@@ -1,1 +1,1 @@
-web: npm start & heroku-php-apache2
+heroku-php-apache2
