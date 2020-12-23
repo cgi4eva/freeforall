@@ -3,7 +3,7 @@
 <head>
 	<title>hckr</title>
 	
-<meta NAME="description" CONTENT="Serves as a resource for projects">
+<meta NAME="description" CONTENT="Every day we learn something new">
 <meta NAME="keywords" CONTENT="hckr">
 
 <style type="text/css">
